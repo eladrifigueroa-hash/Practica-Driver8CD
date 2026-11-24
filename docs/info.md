@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-aaaaaaaaa simple 7 segments display driver
+Describe brevemente cómo funciona tu diseño, qué entradas recibe y qué salida produce.
 
 ## How to test
 
-aaaaaaaaa use the first 4 bit input to driver a decimal display
+Explica cómo probarlo. Por ejemplo:
 
-## External hardware
-
-aaaaaaaa Comun cathode 7 segment displauy
+1. Configura las entradas.
+2. Aplica el estímulo de reloj o habilitación correspondiente.
+3. Verifica la salida esperada.
